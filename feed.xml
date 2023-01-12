@@ -1,17 +1,132 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-01-12T22:21:48+01:00</updated><id>/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="/jekyll/update/2023/01/12/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2023-01-12T22:07:44+01:00</published><updated>2023-01-12T22:07:44+01:00</updated><id>/jekyll/update/2023/01/12/welcome-to-jekyll</id><content type="html" xml:base="/jekyll/update/2023/01/12/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Finding The Way Home - Articles</title>
+    <description>A beautiful narrative written with the world&apos;s most elegant publishing platform. The story begins here.</description>
+    <link>
+    </link>
+    
+      
+      <item>
+        <title>A Full and Comprehensive Style Test</title>
+        
+          <description>&lt;p&gt;This is just an &lt;em&gt;ipsis verbis&lt;/em&gt; copy of the first example running on the &lt;a href=&quot;http://demo.ghost.io&quot;&gt;Ghost Demo&lt;/a&gt;. This shows how you can use html styling to achieve your hopes.&lt;/p&gt;
 
-<p>Jekyll requires blog post files to be named according to the following format:</p>
+</description>
+        
+        <pubDate>Sat, 27 Sep 2014 12:18:00 +0200</pubDate>
+        <link>
+        /a-full-and-comprehensive-style-test</link>
+        <guid isPermaLink="true">/a-full-and-comprehensive-style-test</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>The Businessman &amp; the fisherman</title>
+        
+          <description>&lt;p&gt;An American businessman took a vacation to a small coastal Mexican village on doctor’s orders. Unable to sleep after an urgent phone call from the office the first morning, he walked out to the pier to clear his head. A small boat with just one fisherman had docked, and inside the boat were several large yellowfin tuna. The American complimented the Mexican on the quality of his fish.&lt;/p&gt;
 
-<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+</description>
+        
+        <pubDate>Tue, 12 Aug 2014 12:18:00 +0200</pubDate>
+        <link>
+        /the-businessman-and-fisherman</link>
+        <guid isPermaLink="true">/the-businessman-and-fisherman</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>I Have a Dream</title>
+        
+          <description>&lt;p&gt;I am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation.&lt;/p&gt;
 
-<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+</description>
+        
+        <pubDate>Wed, 28 Aug 1963 12:18:00 +0200</pubDate>
+        <link>
+        /i-have-a-dream</link>
+        <guid isPermaLink="true">/i-have-a-dream</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>The Purpose of Education</title>
+        
+          <description>&lt;p&gt;As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.&lt;/p&gt;
 
-<p>Jekyll also offers powerful support for code snippets:</p>
+</description>
+        
+        <pubDate>Sun, 12 Dec 1948 11:18:00 +0100</pubDate>
+        <link>
+        /the-purpose-of-education</link>
+        <guid isPermaLink="true">/the-purpose-of-education</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Out to Sea</title>
+        
+          <description>&lt;p&gt;I had this story from one who had no business to tell it to me, or to any other. I may credit the seductive influence of an old vintage upon the narrator for the beginning of it, and my own skeptical incredulity during the days that followed for the balance of the strange tale.&lt;/p&gt;
 
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+</description>
+        
+        <pubDate>Wed, 24 Jul 1912 11:18:00 +0100</pubDate>
+        <link>
+        /out-to-sea</link>
+        <guid isPermaLink="true">/out-to-sea</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Looking-Glass house</title>
+        
+          <description>&lt;p&gt;One thing was certain, that the white kitten had had nothing to do with it:— it was the black kitten’s fault entirely. For the white kitten had been having its face washed by the old cat for the last quarter of an hour (and bearing it pretty well, considering); so you see that it couldn’t have had any hand in the mischief.
+The way Dinah washed her children’s faces was this: first she held the poor thing down by its ear with one paw, and then with the other paw she rubbed its face all over, the wrong way, beginning at the nose: and just now, as I said, she was hard at work on the white kitten, which was lying quite still and trying to purr — no doubt feeling that it was all meant for its good.
+But the black kitten had been finished with earlier in the afternoon, and so, while Alice was sitting curled up in a corner of the great arm-chair, half talking to herself and half asleep, the kitten had been having a grand game of romps with the ball of worsted Alice had been trying to wind up, and had been rolling it up and down till it had all come undone again; and there it was, spread over the hearth-rug, all knots and tangles, with the kitten running after its own tail in the middle.&lt;/p&gt;
 
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry></feed>
+</description>
+        
+        <pubDate>Sat, 18 Mar 1871 11:18:00 +0100</pubDate>
+        <link>
+        /looking-glass-house</link>
+        <guid isPermaLink="true">/looking-glass-house</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Down The Rabbit Hole</title>
+        
+          <description>&lt;p&gt;Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, ‘and what is the use of a book,’ thought Alice ‘without pictures or conversation?’&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 26 Nov 1865 11:18:00 +0100</pubDate>
+        <link>
+        /down-the-rabbit-hole</link>
+        <guid isPermaLink="true">/down-the-rabbit-hole</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Gettysburg Address</title>
+        
+          <description>&lt;p&gt;Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 19 Nov 1863 11:18:00 +0100</pubDate>
+        <link>
+        /gettysburg-address</link>
+        <guid isPermaLink="true">/gettysburg-address</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
